@@ -1,0 +1,187 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Montserrat', sans-serif;
+    
+    
+    }
+    /* nav container */
+    .nav-contaniner{
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        background-image: url(./new-year-new-me-main/images/banner/banner1.png);
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center;
+        height: 100vh;
+    text-align: center;
+    }
+    .header-bar{
+    font-size:40px;
+    padding: 10px;
+    text-align: center;
+    
+    }
+    .mid-bar{
+    width: 50%;
+    font-size: 18px;
+    margin: auto;
+    font-weight: 600;
+    }
+    .button-container{
+    font-size: 25px;
+    background-color: orangered;
+    border: none;
+    padding: 13px 30px;
+    margin-top: 15px;
+    color: aliceblue;
+    font-weight: bold;
+    border-radius: 5%;
+    }
+    /* banner container */
+    .banner-container{
+        display: flex;
+        text-align: justify;
+        justify-content:space-around;
+        align-items: center;
+        min-height: 10PX;
+        margin-top: 80px;
+    }
+    .banner-item{
+    margin-left: 200px;
+    
+    }
+    .banner-header{
+        font-size:45px ;
+        font-weight: bold;
+        padding: 5px;
+    
+    }
+    .banner-menu{
+    width:400PX;
+    font-weight: bold;
+    padding: 5px;
+    
+    }
+    .titel-info{
+    display: flex;
+    text-align: center;
+    padding:10px;
+    }
+    .info{
+    padding:10PX;
+    text-align: center;
+    max-height: 10PX;
+    font-size:14px ;
+    
+    }
+    .img-author{
+      width: 400px;
+      height: 500px;
+    margin-right: 300px;
+    
+    }
+    /* service */
+    .service{
+    margin-top: 110px;
+    
+    
+    }
+    
+    .service-header{
+    
+        font-size:35px;
+        text-align: center;
+        font-weight: bold;
+    }
+    /* skill-container */
+    .service-manu{
+    margin-top: 130px;
+    
+    }
+    .service-logo{
+        
+    }
+    .about-deatils{
+      margin-top: 50px;
+        gap: 20px;
+    }
+    .skill{
+        font-weight:700;
+        font-size: 22px;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+        padding: 10px;
+        margin-top: 10px;
+    }
+    .skill-descripton{
+    text-align: center;
+    font-weight: bold;
+    padding: 10px;
+    color:#737272 ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    
+    }
+    .about{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    list-style:none;
+    box-shadow:3px 5px 10px hwb(0 0% 100% / 0.714);
+    margin: 0 120px;
+    }
+    .logo-img{
+        display: flex;
+    padding: 20px;
+    height: 80px;
+    width: 80px;
+    margin-top: 10px;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    margin-bottom:5px;
+    }
+    /* call-container */
+    .call-description{
+     margin:30px 300px;
+     background-image: url(./new-year-new-me-main/images/gradient3.png);
+     background-position: right;
+     background-size: contain;
+     height:70vh;
+     background-repeat: no-repeat;
+    display: flex;
+    }
+    .call-contaniner{
+        display: flex;
+    justify-content: center;
+    align-items: center;
+    }
+    .call-header{
+        text-align: left;
+        justify-content:center;
+        font-size:40px ;
+        font-weight: 700;
+        margin-left: 20px;}
+    .call-btn{
+        font-size: 25px;
+        background-color: rgb(236, 230, 227);
+        border: none;
+        padding: 13px 30px;
+        margin: 15px 35px;
+        colorrgb(216, 128, 65);
+        font-weight:bold;
+        border-radius:10px;}
+    
+    .button-details{
+    padding:20px 35px;
+    justify-items:center;
+    align-items:center;
+    }
+    
+    
+    
